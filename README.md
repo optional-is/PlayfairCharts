@@ -14,4 +14,4 @@ Currently supported chart types
 Further Reading
 ===============
 How to create your own Symbol Fonts
-http://www.fivesimplesteps.com/products/creating-symbol-fonts
+https://briansuda.gumroad.com/l/Creating-Symbol-Fonts
